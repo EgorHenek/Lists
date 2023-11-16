@@ -4,7 +4,7 @@
 # Homepage: https://blocklist.site
 # Help: https://github.com/blocklistproject/lists/wiki/
 # License: https://unlicense.org
-# Total number of network filters: 2499
+# Total number of network filters: 2531
 # ------------------------------------[SUPPORT]-------------------------------------
 # You can support by:
 # - reporting false positives
@@ -2512,3 +2512,35 @@ server=/india-wheel.pu020ev.com/
 server=/loro.ch/
 server=/in.1x001.com/
 server=/rajbet.com/
+server=/marathonbet.ru/
+server=/www.marathonbet.ru/
+server=/betcity.ru/
+server=/www.betcity.ru/
+server=/winline.ru/
+server=/www.winline.ru/
+server=/betboom.ru/
+server=/www.betboom.ru/
+server=/fon.bet/
+server=/www.fon.bet/
+server=/leon.ru/
+server=/www.leon.ru/
+server=/pari.ru/
+server=/www.pari.ru/
+server=/ligastavok.ru/
+server=/www.ligastavok.ru/
+server=/olimp.bet/
+server=/www.olimp.bet/
+server=/tennisi.bet/
+server=/www.tennisi.bet/
+server=/melbet.ru/
+server=/www.melbet.ru/
+server=/baltbet.ru/
+server=/www.baltbet.ru/
+server=/1xstavka.ru/
+server=/www.1xstavka.ru/
+server=/zenit.win/
+server=/www.zenit.win/
+server=/sportbet.ru/
+server=/www.sportbet.ru/
+server=/olimpbet.ru/
+server=/www.olimpbet.ru/
